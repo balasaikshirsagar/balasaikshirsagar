@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @balasaikshirsagar
-- 👀 I’m interested in coding especially in Java and python as I always like features of object oriented programming. 
-- 💞️ I’m looking to collaborate on projects of data science
+- 👀 I’m interested in coding especially in Java and PHP as I always like features of object oriented programming. 
+- 💞️ I’m looking to collaborate on projects of Full Stack Development
 - 📫 How to reach me @balasaikshirsagar@gmail.com
 
 <!---
